@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.thatcsharpguy.versiontrackingsample" android:versionCode="2" android:versionName="2.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.thatcsharpguy.versiontrackingsample" android:versionName="3.0" android:versionCode="3">
 	<uses-sdk android:minSdkVersion="15" />
 	<application android:label="Vtracking"></application>
 </manifest>
