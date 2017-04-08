@@ -9,7 +9,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.thatcsharpguy.versiontrackingsample</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.2</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
